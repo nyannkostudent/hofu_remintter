@@ -1,0 +1,5 @@
+# __pycache__はいらない
+*__pycache__
+
+# setting.pyは機密な感じだよね
+hofu_mintter/settings.py
